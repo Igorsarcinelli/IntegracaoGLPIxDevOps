@@ -1,0 +1,14 @@
+# Diretórios do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build de .NET
+bin/
+obj/
+
+# Logs
+*.log
+
+# Publicações locais
+publish/
