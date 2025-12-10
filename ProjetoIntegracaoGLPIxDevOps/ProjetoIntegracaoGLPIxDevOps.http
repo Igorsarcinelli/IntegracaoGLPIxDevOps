@@ -1,6 +1,0 @@
-@ProjetoIntegracaoGLPIxDevOps_HostAddress = http://localhost:5008
-
-GET {{ProjetoIntegracaoGLPIxDevOps_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
