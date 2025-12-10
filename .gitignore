@@ -12,3 +12,8 @@ obj/
 
 # Publicações locais
 publish/
+
+*.http
+
+appsettings.Development.json
+appsettings.*.Development.json
